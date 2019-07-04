@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "eggheadreacttake2pre-dev-20190704124639-authRole",
+            "UnauthRoleArn": "arn:aws:iam::888153712120:role/eggheadreacttake2pre-dev-20190704124639-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::888153712120:role/eggheadreacttake2pre-dev-20190704124639-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "eggheadreacttake2pre-dev-20190704124639-deployment",
+            "UnauthRoleName": "eggheadreacttake2pre-dev-20190704124639-unauthRole",
+            "StackName": "eggheadreacttake2pre-dev-20190704124639",
+            "StackId": "arn:aws:cloudformation:us-east-1:888153712120:stack/eggheadreacttake2pre-dev-20190704124639/4bc94b40-9e7b-11e9-8fac-0e07a69c7d52"
+        }
+    }
+}
